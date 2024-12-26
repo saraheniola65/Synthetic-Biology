@@ -7,3 +7,5 @@ S
 #contracts/collaborative-design.clar,d/2/d232fe8a66379d036ac694fc745e4c65856a6d01
 M
 contracts/lab-automation.clar,e/c/eceea8521a7c7f00253cd761b255cddd1b19d302
+R
+"tests/collaborative-design.test.ts,2/e/2ebf2f8c64f512cb3f8916447c7d74c1a3c8f449
