@@ -9,3 +9,5 @@ M
 contracts/lab-automation.clar,e/c/eceea8521a7c7f00253cd761b255cddd1b19d302
 R
 "tests/collaborative-design.test.ts,2/e/2ebf2f8c64f512cb3f8916447c7d74c1a3c8f449
+L
+tests/lab-automation.test.ts,9/a/9a756d98fc15a9b682dff3781a211a33a1d2d281
