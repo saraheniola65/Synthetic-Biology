@@ -102,3 +102,4 @@ describe('Genetic Construct NFT Contract', () => {
     })
   })
 })
+
