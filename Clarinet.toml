@@ -1,0 +1,29 @@
+[project]
+name = 'Synthetic-Biology'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.collaborative-design]
+path = 'contracts/collaborative-design.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.genetic-construct-nft]
+path = 'contracts/genetic-construct-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.lab-automation]
+path = 'contracts/lab-automation.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
