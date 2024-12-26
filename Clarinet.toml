@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/genetic-construct-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.lab-automation]
+path = 'contracts/lab-automation.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
